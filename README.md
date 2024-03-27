@@ -1,4 +1,4 @@
-# Java_School_Intermediate
+# ThchPit_Javaスクール_総合問題
 ああああああああああああ
 いいいいいいいいいいいい
 うううううううううううう
